@@ -1,5 +1,5 @@
 config SHIELD_HORNE_LEFT
-    def bool $(shields_list_contains, horne_left)
+    def_bool $(shields_list_contains, horne_left)
 
 config SHIELD_HORNE_RIGHT
-    def bool $(shields_list_contains, horne_right)
+    def_bool $(shields_list_contains, horne_right)
