@@ -1,6 +1,6 @@
 if SHIELD_HORNE_LEFT
 
-config ZMK_HORNE
+config ZMK_KEYBOARD_NAME
     default "Horne"
 
 config ZMK_SPLIT_ROLE_CENTRAL
