@@ -1,7 +1,7 @@
 if SHIELD_HORNE_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Horne"
+    default "testbt"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
