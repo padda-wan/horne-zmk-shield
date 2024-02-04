@@ -1,6 +1,6 @@
 file_format: "1"
 id: horne
-name: horne
+name: Horne
 type: shield
 url: https://github.com/padda-wan/horne-zmk-shield
 requires: [seeeduino_xiao_ble]
