@@ -19,6 +19,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: horne_right rgbled_adapter
+    shield: horne_right
   - board: seeeduino_xiao_ble
-    shield: horne_left rgbled_adapter
+    shield: horne_left
